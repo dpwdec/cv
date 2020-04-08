@@ -1,6 +1,6 @@
 ## Dec Kolakowski
 
-I spent ten years 
+I spent ten years creating multi disciplinary music and te
 
 ## Skills
 
@@ -54,5 +54,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk5NDYzOV19
+eyJoaXN0b3J5IjpbLTIwNjUzNzAwNzVdfQ==
 -->
