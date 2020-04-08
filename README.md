@@ -30,11 +30,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Trinity College (start_date to end_date)
+#### Trinity College (September 2011 to June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Musical Composition (Orchestral and Electro-acoustic)
+- Graduated with First Class Honours
+- Created multiple local and international musical projects
 
 #### Any other qualifications
 
@@ -54,5 +54,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzc3MzE1XX0=
+eyJoaXN0b3J5IjpbMTM1NTYyMTU0OF19
 -->
