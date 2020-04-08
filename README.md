@@ -1,6 +1,6 @@
 ## Dec Kolakowski
 
-I am a software developer in training who has using my coding skills traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology for my projects was a more nuanced art form than I ever could have imagined.
+I am a software developer in training who has using my coding skills traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was a art form more expressive and nuanced then I could have imagined.
 ## Skills
 
 
@@ -23,14 +23,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2020 to July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Trinity College (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
@@ -54,5 +54,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAyMDc0ODJdfQ==
+eyJoaXN0b3J5IjpbMTkzNzc3MzE1XX0=
 -->
