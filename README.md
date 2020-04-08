@@ -10,7 +10,7 @@ I have produced a range of 3D animations, multi media music projects and games t
 	 - Unity, UE4
 	 - Processing (and P5.js)
 	 - Logic, Max MSP
- - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender.
+ - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied 
  - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered.
 
 #### "Organiser, results driven and tech focused"
@@ -42,6 +42,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTEzNjI4LC0xODQ0ODk3MjAwLDIxMT
+eyJoaXN0b3J5IjpbMjAwMDA4MjAyLC0xODQ0ODk3MjAwLDIxMT
 U2MDAxMjYsLTUwMTE2NTQ2OF19
 -->
