@@ -1,5 +1,7 @@
 ## Dec Kolakowski
 
+[link] (https://github.com/dpwdec/cv/edit/master/README.md)
+
 I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was an art form more expressive and nuanced then I could have imagined.
 ## Skills
 #### "Tech focused and self motivated"
