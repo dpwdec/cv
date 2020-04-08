@@ -54,9 +54,9 @@ In addition to my artistic work I have run a business for the last five years tu
 
 ## Other Interests
 
-I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
+I am long time meditator. I have attended several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NzQ3NTI3LC0xMzMyMTc3OTk3LC0xNj
+eyJoaXN0b3J5IjpbMzc2NjA0Njc1LC0xMzMyMTc3OTk3LC0xNj
 k1OTc0NjYwLDE0NzA1NzA2MSwxODc3MTUzNzAsLTE4NDQ4OTcy
 MDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
 -->
