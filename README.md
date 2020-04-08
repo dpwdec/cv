@@ -2,6 +2,8 @@
 
 I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was an art form more expressive and nuanced then I could have imagined.
 ## Skills
+#### "Tech focussed"
+I have produced a range of 3D animation
 
 #### "Organiser, results driven and tech focused"
 I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
@@ -32,6 +34,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTY0Mzk1MiwtMTg0NDg5NzIwMCwyMT
+eyJoaXN0b3J5IjpbMTI1OTczNDY1NywtMTg0NDg5NzIwMCwyMT
 E1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
