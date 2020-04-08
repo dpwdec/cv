@@ -11,11 +11,13 @@ I have produced a range of 3D animations, multi media music projects and games t
 	 - [Processing][pr] (and [P5.js][p5])
 	 - Logic, Max MSP
  - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied [Kim Asendorf's pixel sorting algorithm][pix] to each fame of a video.
- - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game NORnS for Ludem Dare 31. It received positive reviews in Killscreen and Warpdoor.
+ - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game NORnS for Ludem Dare 31. It received positive reviews in Killscreen and [Prosthetic Knowledge][pk].
+
 
 [p5]: [https://p5js.org/](https://p5js.org/)
 [pr]: [https://processing.org/](https://processing.org/)
 [pix]: [https://github.com/kimasendorf/ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)
+[pk]: [https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the](https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the)
 
 #### "Organiser and results driven"
 I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
@@ -50,7 +52,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MDA3Mjk2LDE0NzA1NzA2MSwxODc3MT
-UzNzAsLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDU3OTI5MzYsMTQ3MDU3MDYxLDE4Nz
+cxNTM3MCwtMTg0NDg5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0
+NjhdfQ==
 -->
