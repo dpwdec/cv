@@ -30,8 +30,8 @@ In addition to my artistic work I have run a business for the last five years tu
 
 ## Hobbies
 
-
+I am long time meditator and have been on several vipassana retreats. I have trained Dzogchen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQxMzI1NzQsLTE4NDQ4OTcyMDAsMj
-ExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbMTg3Nzc0NjAyNywtMTg0NDg5NzIwMCwyMT
+E1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
