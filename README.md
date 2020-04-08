@@ -1,7 +1,8 @@
 ## Dec Kolakowski
 
-I am a software developer in training who has using my coding skills traversed into the depths of the human condition and returned to tell the tale. I spent ten years engaged in creating technology driven music and animation projects and as my practice grew I realised that the creation of technology for my projects was a more nuanced art form than I ever could have imagined.
+I am a software developer in training who has using my coding skills traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology for my projects was a more nuanced art form than I ever could have imagined.
 ## Skills
+
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -53,5 +54,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNjU3MDExXX0=
+eyJoaXN0b3J5IjpbLTE4MDAyMDc0ODJdfQ==
 -->
