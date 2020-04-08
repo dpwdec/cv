@@ -30,8 +30,8 @@ In addition to my artistic work I have run a business for the last five years tu
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzE3OTEwOCwtMTg0NDg5NzIwMCwyMT
-E1NjAwMTI2LC01MDExNjU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTExOTQxMzI1NzQsLTE4NDQ4OTcyMDAsMj
+ExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
 -->
