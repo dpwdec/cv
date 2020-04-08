@@ -1,4 +1,4 @@
-## Your Name
+## Dec Kolakowski
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -53,3 +53,6 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNTQ3NTE5MDZdfQ==
+-->
