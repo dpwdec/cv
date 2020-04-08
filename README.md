@@ -3,25 +3,12 @@
 I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was an art form more expressive and nuanced then I could have imagined.
 ## Skills
 
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### "Organiser, results driven and tech focussed"
 I worked with *secret cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with ableton.
 
+I collaborated in cross-continental project with *The Museum of the City of New York* to produce sound and music on tight (three week) deadline 
 
 
-I 
-During my time working as an artist I have "shipped" numerous collaborative (and sometimes cross-continental) projects. which required:
-- Organising complex projects
-- Collaborating with a team of professionals
-- Delivering a finished product to a deadline
-
-Some of 
-
-
-- Achievements
-- Evidence
 
 #### "Technology focussed"
 
@@ -65,5 +52,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzIzMDk0OCwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbMTY0NDAyNzYxNCwtNTAxMTY1NDY4XX0=
 -->
