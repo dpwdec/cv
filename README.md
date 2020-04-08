@@ -42,10 +42,10 @@ In addition to my artistic work I have run a business for the last five years tu
 - Graduated with First Class Honours
 - Created or participated in a range of artistic cross-cultural and internal arts projects.
 
-## Hobbies
+## Other Interests
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTUyMzgzNiwxODc3MTUzNzAsLTE4ND
-Q4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbMTQ3MDU3MDYxLDE4NzcxNTM3MCwtMTg0ND
+g5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
