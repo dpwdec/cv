@@ -9,7 +9,7 @@ I worked with *secret cinema* to produce interactive sound design for an immersi
 I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on tight (three week) deadline for a group of professional dancers with open a large educational event for the museum. I learnt to collaborate remotely and effectively during this project and produce significant and high quality work under pressure.
 
 #### "Details oriented"
-I have worked proofreading musical scores and essays for a range of
+I have worked proofreading musical scores. 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -51,5 +51,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NzIyMjAsLTUwMTE2NTQ2OF19
+eyJoaXN0b3J5IjpbMTA4MzI5ODIwNSwtNTAxMTY1NDY4XX0=
 -->
