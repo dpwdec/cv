@@ -3,7 +3,7 @@
 I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was an art form more expressive and nuanced then I could have imagined.
 ## Skills
 #### "Tech focused and self motivated"
-I have produced a range of 3D animations, multi media music projects and games that required me integrated and learn many different technologies.
+I have produced a range of 3D animations, multi media music projects and games that required me integrated and learn many different technologies. This required me to:
 
  - Work with and become proficient in a range complex techcologies:
 	 - Maya, Blender, Zbrush
@@ -42,6 +42,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDg5MzcyMSwxODc3MTUzNzAsLTE4ND
-Q4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbLTE4NzYyNzM4MjEsMTg3NzE1MzcwLC0xOD
+Q0ODk3MjAwLDIxMTU2MDAxMjYsLTUwMTE2NTQ2OF19
 -->
