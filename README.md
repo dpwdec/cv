@@ -11,7 +11,7 @@ I collaborated on a cross-continental project with *The Museum of the City of Ne
 I produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
 
 #### "Details oriented"
-In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students. This frequently required me to proof documents in the range of 10-20 thousand words within a 24 hour turn around. This taught me to be extremely efficient with my time and oriented towards details so that I could deliver t
+In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students. This frequently required me to proof documents in the range of 10-20 thousand words within a 24 hour turn around. This taught me to be extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on time, a skill I think is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. I am pleased to say over 90% of my clients made a gain of at least two grade boundaries 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -53,6 +53,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODU0MzUxOSwyMTE1NjAwMTI2LC01MD
-ExNjU0NjhdfQ==
+eyJoaXN0b3J5IjpbNjY3NDEyMzg2LDIxMTU2MDAxMjYsLTUwMT
+E2NTQ2OF19
 -->
