@@ -32,8 +32,8 @@ I have participated in a range of arts projects that required me to organise and
 In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students. Through running the business:
 
  -  I was frequently required to proof documents in the range of 10-20 thousand words within a 24 hour turn around.
- - Required to be extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline a skill I think is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
- - Ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
+ - I was Required to be extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline a skill I think is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
+ - I Ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 
 ## Education
 
@@ -54,7 +54,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU5NzQ2NjAsMTQ3MDU3MDYxLDE4Nz
-cxNTM3MCwtMTg0NDg5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTEzMzIxNzc5OTcsLTE2OTU5NzQ2NjAsMT
+Q3MDU3MDYxLDE4NzcxNTM3MCwtMTg0NDg5NzIwMCwyMTE1NjAw
+MTI2LC01MDExNjU0NjhdfQ==
 -->
