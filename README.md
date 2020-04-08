@@ -10,8 +10,8 @@ I have produced a range of 3D animations, multi media music projects and games t
 	 - Unity, UE4
 	 - [Processing][pr] (and [P5.js][p5])
 	 - Logic, Max MSP
- - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied [Kim Asendorf's pixel sorting algorithm][pix] to each fame of a video.
- - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game [NORnS][ns] for Ludem Dare 31 which was e. It received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
+ - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied [Kim Asendorf's pixel sorting algorithm][pix] to each frame of a video.
+ - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game [NORnS][ns] for Ludem Dare 31. It received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
 
 
 [p5]: [https://p5js.org/](https://p5js.org/)
@@ -54,7 +54,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDAwMjM3LDE0NzA1NzA2MSwxODc3MT
-UzNzAsLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4
-XX0=
+eyJoaXN0b3J5IjpbLTE2OTU5NzQ2NjAsMTQ3MDU3MDYxLDE4Nz
+cxNTM3MCwtMTg0NDg5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0
+NjhdfQ==
 -->
