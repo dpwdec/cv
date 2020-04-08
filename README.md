@@ -4,9 +4,9 @@ I am a software developer in training who has, using my coding skills, traversed
 ## Skills
 
 #### "Organiser, results driven and tech focussed"
-I worked with *secret cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with ableton.
+I worked with *secret cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
 
-I collaborated in cross-continental project with *The Museum of the City of New York* to produce sound and music on tight (three week) deadline 
+I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on tight (three week) deadline for a group of professional dancers with open a large educational event for the museum. I learnt to collaborate remotely and effectively during this 
 
 
 
@@ -52,5 +52,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDAyNzYxNCwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbLTIwMTk0MjYxNjIsLTUwMTE2NTQ2OF19
 -->
