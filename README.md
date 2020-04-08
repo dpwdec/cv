@@ -8,7 +8,7 @@ I worked with *secret cinema* to produce interactive sound design for an immersi
 
 I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
 
-I produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was asessed by my university as a credit bearing project and I received a mark of 98% 
+I produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a 
 
 #### "Details oriented"
 I have worked proofreading musical scores. 
@@ -53,6 +53,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAyODE4OTcsMjExNTYwMDEyNiwtNT
-AxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbMTU2NjA4NjAyOSwyMTE1NjAwMTI2LC01MD
+ExNjU0NjhdfQ==
 -->
