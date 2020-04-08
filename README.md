@@ -26,11 +26,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
 - Musical Composition (Orchestral and Electro-acoustic)
 - Graduated with First Class Honours
-- Created multiple local and international musical projects
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Created or participated in a range of artistic cross-cultural and internal arts projects.
 
 ## Experience
 
@@ -46,6 +42,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDgxMTU2LDIxMTU2MDAxMjYsLTUwMT
-E2NTQ2OF19
+eyJoaXN0b3J5IjpbLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNT
+AxMTY1NDY4XX0=
 -->
