@@ -1,9 +1,5 @@
 ## Dec Kolakowski
 
-[link][l]
-
-[l]: https://github.com/dpwdec/cv/edit/master/README.md
-
 I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology itself was an art form more expressive and nuanced then I could have imagined.
 ## Skills
 #### "Tech focused and self motivated"
@@ -18,12 +14,12 @@ I have produced a range of 3D animations, multi media music projects and games t
  - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game [NORnS][ns] for Ludem Dare 31. It received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
 
 
-[p5]: [https://p5js.org/](https://p5js.org/)
-[pr]: [https://processing.org/](https://processing.org/)
-[pix]: [https://github.com/kimasendorf/ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)
-[ns]: [https://etomame.itch.io/norns](https://etomame.itch.io/norns)
-[ks]: [https://killscreen.com/previously/articles/play-your-food/](https://killscreen.com/previously/articles/play-your-food/)
-[pk]: [https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the](https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the)
+[p5]: https://p5js.org/
+[pr]: https://processing.org/
+[pix]: https://github.com/kimasendorf/ASDFPixelSort
+[ns]: https://etomame.itch.io/norns
+[ks]: https://killscreen.com/previously/articles/play-your-food/
+[pk]: https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the
 
 #### "Organiser and results driven"
 I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
