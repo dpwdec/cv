@@ -7,7 +7,9 @@ I am a software developer in training who has, using my coding skills, traversed
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### "Organiser and results driven"
+I worked with *secret cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists.
 
+I 
 During my time working as an artist I have "shipped" numerous collaborative (and sometimes cross-continental) projects. which required:
 - Organising complex projects
 - Collaborating with a team of professionals
@@ -61,5 +63,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjkwMTk1MywtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbLTIwNTAxNzEyMzcsLTUwMTE2NTQ2OF19
 -->
