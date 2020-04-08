@@ -11,7 +11,7 @@ I have produced a range of 3D animations, multi media music projects and games t
 	 - Processing (and P5.js)
 	 - Logic, Max MSP
  - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender.
- - All of these projects where largely self motivated and required me to work auto didactically, teaching myself as I went and finding personal solution to the problems I encountered.
+ - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered.
 
 #### "Organiser, results driven and tech focused"
 I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
@@ -42,6 +42,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg2ODQyOTgsLTE4NDQ4OTcyMDAsMj
-ExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbLTI5OTEzNjI4LC0xODQ0ODk3MjAwLDIxMT
+U2MDAxMjYsLTUwMTE2NTQ2OF19
 -->
