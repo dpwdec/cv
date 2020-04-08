@@ -8,10 +8,13 @@ I have produced a range of 3D animations, multi media music projects and games t
  - Work with and become proficient in a range complex techcologies:
 	 - Maya, Blender, Zbrush
 	 - Unity, UE4
-	 - Processing (and P5.js)
+	 - [Processing][pr] (and [P5.js][p5])
 	 - Logic, Max MSP
- - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied Kim Asendorf's pixel sorting algorithm to each fame of a video.
+ - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied [Kim Asendorf's pixel sorting algorithm][pix] to each fame of a video.
  - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. 
+
+[pr]: [https://processing.org/](https://processing.org/)
+[pix]: [https://github.com/kimasendorf/ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)
 
 #### "Organiser and results driven"
 I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
@@ -46,6 +49,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDU3MDYxLDE4NzcxNTM3MCwtMTg0ND
-g5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0NjhdfQ==
+eyJoaXN0b3J5IjpbODgzMzUzODg2LDE0NzA1NzA2MSwxODc3MT
+UzNzAsLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4
+XX0=
 -->
