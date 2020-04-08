@@ -28,20 +28,10 @@ In addition to my artistic work I have run a business for the last five years tu
 - Graduated with First Class Honours
 - Created or participated in a range of artistic cross-cultural and internal arts projects.
 
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNT
-AxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbLTI1NzE3OTEwOCwtMTg0NDg5NzIwMCwyMT
+E1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
