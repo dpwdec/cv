@@ -10,12 +10,11 @@ I have produced a range of 3D animations, multi media music projects and games t
 	 - Unity, UE4
 	 - Processing (and P5.js)
 	 - Logic, Max MSP
- - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *
-
-	Example:* I wrote a system in processing that applied Kim Asendorf's pixel sorting algorithm to each fame of a video.
+ - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied Kim Asendorf's pixel sorting algorithm to each fame of a video.
  - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. 
 
-#### "Organiser, results driven and tech focused"
+#### "Organiser and results driven"
+I have collaborated on a range of arts projects that required me to 
 I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
 
 I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
@@ -44,6 +43,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzA2OTYwNywxODc3MTUzNzAsLTE4ND
-Q4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
+eyJoaXN0b3J5IjpbNTIxNzkzMjM4LDE4NzcxNTM3MCwtMTg0ND
+g5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
