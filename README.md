@@ -8,7 +8,7 @@ I have produced a range of 3D animations and multi media music projects and game
  - Work with and become proficient in a range complex techcologies:
 	 - Maya, Blender, Zbrush
 	 - Unity, UE4
-	 - Processing
+	 - Processing (and P5.js)
 
 #### "Organiser, results driven and tech focused"
 I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
@@ -39,6 +39,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2ODU5MTk2LC0xODQ0ODk3MjAwLDIxMT
-U2MDAxMjYsLTUwMTE2NTQ2OF19
+eyJoaXN0b3J5IjpbMjEzNzE5MzMwMCwtMTg0NDg5NzIwMCwyMT
+E1NjAwMTI2LC01MDExNjU0NjhdfQ==
 -->
