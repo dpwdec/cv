@@ -1,7 +1,6 @@
 ## Dec Kolakowski
 
-I spent ten years creating multi disciplinary music and te
-
+I am a software develop in training who has
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -54,5 +53,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUzNzAwNzVdfQ==
+eyJoaXN0b3J5IjpbLTgyMTE3MjI4OF19
 -->
