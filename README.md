@@ -4,14 +4,14 @@ I am a software developer in training who has, using my coding skills, traversed
 ## Skills
 
 #### "Organiser, results driven and tech focused"
-I worked with *secret cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
+I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
 
 I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
 
 I produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
 
 #### "Details oriented"
-I have worked proofreading musical scores. 
+In addition to my artistic work I have run a business for the last fie
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -53,6 +53,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4OTQzNTQxLDIxMTU2MDAxMjYsLTUwMT
-E2NTQ2OF19
+eyJoaXN0b3J5IjpbMTQzMDM0MDA2NiwyMTE1NjAwMTI2LC01MD
+ExNjU0NjhdfQ==
 -->
