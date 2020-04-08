@@ -1,6 +1,6 @@
 ## Dec Kolakowski
 
-I am a software develop in training who has
+I am a software develop in training who has traversed into the depths of the human condition and returned to tell the tale with my technology and coding. I spent ten years engaged in creating tech driven music and animation projects and as my practice grew I realised that the cre
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -53,5 +53,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTE3MjI4OF19
+eyJoaXN0b3J5IjpbLTE0MjY4NDYzODVdfQ==
 -->
