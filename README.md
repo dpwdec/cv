@@ -9,6 +9,7 @@ Consider skills relevent to software development. Then consider your best skills
 #### "Organiser and results driven"
 During my time working as an artist I have "shipped" numerous collaborative (and sometimes cross-continental) projects. which required:
 - Organising a team of collaborators
+- Producing a finished product/event to a deadline (no matter what)
 - 
 
 
@@ -57,5 +58,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Any cool stuff that makes you a super part of a software development team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkxNTgyOTYsLTUwMTE2NTQ2OF19
+eyJoaXN0b3J5IjpbLTEwMzUwMTAxMDAsLTUwMTE2NTQ2OF19
 -->
