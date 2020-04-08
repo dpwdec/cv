@@ -14,10 +14,11 @@ I have produced a range of 3D animations, multi media music projects and games t
  - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. 
 
 #### "Organiser and results driven"
-I have collaborated on a range of arts projects that required me to 
-I worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
+I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
 
-I collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
+ - Worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work. To accomplish this required the use of multiple interlocking sound and visual technologies, such as Max msp generative music systems and live sound processing with Ableton.
+ - Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
+ - List item
 
 I produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
 
@@ -43,6 +44,6 @@ In addition to my artistic work I have run a business for the last five years tu
 
 I am long time meditator and have been on several vipassana retreats. I have trained in Dzogchen and Pali traditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzkzMjM4LDE4NzcxNTM3MCwtMTg0ND
-g5NzIwMCwyMTE1NjAwMTI2LC01MDExNjU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTI1ODAyNTUyOCwxODc3MTUzNzAsLTE4ND
+Q4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX0=
 -->
