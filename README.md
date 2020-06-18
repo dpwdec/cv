@@ -1,12 +1,7 @@
 ## Dec Kolakowski
 
-I am a software developer with experience making games, generative art and installation projects. I spent ten years using code when working on a range of technology-driven music and animation projects. Through this exploration I realised an 
+I am a software developer with experience making games, generative art and installation projects. I spent ten years using code when working on a range of technology-driven music and animation projects. Through this exploration I realised an intrinsic love for coding and the inherent expressive potential of code which drove me to transition entirely into development. Since making this change to a more disciplined style of coding I have become an evangelist for TDD, strong OO design and clean code.
 
-I am a software developer with experience making games, generative art and installation projects. After graduating with a first class degree in musical composition from Trinity College I spent several years engaged in using code to enrich my artistic practice in technology-driven music and animation projects. It was through this exploration that I realised the creative expression inherent in code itself and made the decision to transition entirely into development.
-
-- is it important that I write about TDD and it being important in my intro? would that not just appear later on
-
-I am a software developer in training who has, using my coding skills, traversed into the depths of the human condition and returned to tell the tale. I graduated with a first class degree in musical composition from Trinity College and have spent ten years engaged in creating technology driven music and animation projects as a result of my study there. As my practice grew I realised that the creation of technology through code was, itself, an art form more expressive and nuanced then I could have imagined.
 ## Skills
 #### "Tech focused and self motivated"
 I have produced a range of 3D animations, multi media music projects and games that required me integrated and learn many different technologies. This required me to:
