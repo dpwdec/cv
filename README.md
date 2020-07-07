@@ -27,9 +27,9 @@ You can find a full technical blog of *almost* everything I've learned related t
 | Area | Skill |
 | --- | ---
 | Github | Version management, Markdown |
-| TDD | RRG Test Cycle, 
-| OOP | SOLID Code
-| JavaScript | Vanilla JS, Typescript, Cypress, Jest, React, Node.js, Express |
+| TDD | RRG Test Cycle |
+| OOP | SOLID Code, Object Oriented Design principles |
+| JavaScript | Vanilla JS, Typescript, Cypress, Jest, Jasmine, React, Node.js, Express |
 | Ruby | RSpec, Capybara, Rails, Sinatra |
 | Python | Unittest, Pipenv |
 
@@ -51,7 +51,7 @@ Outside of my traditional software development learning I have a strong intrinsi
 - I used `real world code` to `accomplish personal goals` goals, such as creating Maya and Blender toolings with PyMel and BPY respectively.
 - I learned complex technologies such as ZBrush, Unity, [Processing][pr] and more recently [Processing.js][p5]. Additional I created my own small game projects in Unity using `C#`.
 - I worked auto-didactically to produce an entirely self led game project for Ludem Date 31 in the `Java` processing framework. The game, [NORnS][ns], received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
-- Produced a self led project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
+- For my degree show I produced a self led project called *Selection* which used synchronised video across multiple televisions. This required me to write code to solve a real world problem by networking the television feeds together so that they executed synchronously. I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen".
 
 
 [p5]: https://p5js.org/
@@ -60,7 +60,7 @@ Outside of my traditional software development learning I have a strong intrinsi
 [pk]: https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the
 
 
-#### "Details oriented with real world experience"
+#### "Details oriented with business experience"
 In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students:
 
  -  I frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period
