@@ -1,5 +1,14 @@
 <h1 align="center">Dec Kolakowski</h1>
 
+<div align="center">    
+
+<a href="#Projects">Projects</a> | 
+<a href="#Skills">Skills</a>  | 
+<a href="#Education">Education</a> | 
+<a href="#Interests">Interests</a>
+
+</div>
+
 I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean code][solid]. I graduated with a first class degree from [Trinity College][trinity] in Musical Composition. I spent ten years making [games][ns] as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and it’s expressive potential. In 2020 I made the decision to transition fully into software development by attending [Makers academy][makers].
 
 [tdd]: http://agiledata.org/essays/tdd.html
@@ -8,7 +17,7 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 [ns]: https://etomame.itch.io/norns
 [makers]: https://makers.tech/
 
-<h2 align="center">Projects</h2>
+<h2 id="Projects" align="center">Projects</h2>
 
 | Title | Summary | Tech Stack | Testing |
 | --- | --- | --- | --- |
@@ -16,7 +25,7 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 | Makers B'n'B | A group project clone of Air B'n'B implemented in Sinatra. | Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony | RSpec, Capybara |
 | Bank Tech Test | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest |
 
-<h2 align="center">Skills</h2>
+<h2 id="Skills" align="center">Skills</h2>
 
 ### Technical Skills
 
@@ -68,7 +77,7 @@ In addition to my artistic work I have run a business for the last five years tu
  - I ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 
 
- <h2 align="center">Education</h2>
+ <h2 id="Education" align="center">Education</h2>
 
 #### Makers Academy (April 2020 to July 2020)
 
@@ -85,6 +94,6 @@ In addition to my artistic work I have run a business for the last five years tu
 - Created or participated in a range of artistic cross-cultural and internal collaborative arts projects.
 - Created professional recordings and integrated technology with music
 
- <h2 align="center">Interests</h2>
+ <h2 id="Interests" align="center">Interests</h2>
 
 I am long time meditator. I have attended several vipassana retreats. I have trained in Dzogchen and Pali traditions.
