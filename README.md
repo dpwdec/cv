@@ -1,6 +1,13 @@
 ## Dec Kolakowski
 
-I am a software developer with experience making games, generative art and installation projects. I spent ten years using code when working on a range of technology-driven music and animation projects. Through this exploration I realised an intrinsic love for coding and the inherent expressive potential of code which drove me to transition entirely into development. Since making this change to a more disciplined style of coding I have become an evangelist for TDD, strong OO design and clean code.
+I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean code][solid]. I graduated with a first class degree from [Trinity College][trinity] in Musical Composition. I spent ten years making [games][ns] as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and it’s expressive potential. In 2020 I made the decision to transition fully into software development by attending [Makers academy][makers].
+
+[tdd]: http://agiledata.org/essays/tdd.html
+[solid]: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+[trinity]: https://www.trinitylaban.ac.uk/study/music/composition
+[ns]: https://etomame.itch.io/norns
+[makers]: https://makers.tech/
+
 
 ## Skills
 #### "Tech focused and self motivated"
@@ -18,7 +25,6 @@ I have produced a range of 3D animations, multi media music projects and games t
 [p5]: https://p5js.org/
 [pr]: https://processing.org/
 [pix]: https://github.com/kimasendorf/ASDFPixelSort
-[ns]: https://etomame.itch.io/norns
 [ks]: https://killscreen.com/previously/articles/play-your-food/
 [pk]: https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the
 
