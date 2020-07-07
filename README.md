@@ -27,9 +27,9 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 
 | Title | Summary | Tech Stack | Testing |
 | --- | --- | --- | --- |
-| [Re-Engage Coordinator Portal][charity] | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | JavaScript, Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash, Genetic Algorithms | Cypress, Jest
+| [Re-Engage Coordinator Portal][charity] | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | JavaScript, Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash, Genetic Algorithms | Cypress, Jest, TravisCI |
 | [Makers B'n'B][bnb] | A group project clone of Air B'n'B implemented in Sinatra. | Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony | RSpec, Capybara |
-| [Bank Tech Test][bank] | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest |
+| [Bank Tech Test][bank] | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest, TravisCI, Coveralls |
 
 [charity]: https://github.com/dpwdec/charity-apr2020
 [bnb]: https://github.com/dpwdec/Makersbnb
@@ -45,12 +45,14 @@ You can find a full technical blog of *almost* everything I've learned related t
 
 | Area | Skill |
 | --- | ---
-| Github | Version management, Markdown |
-| TDD | RRG Test Cycle |
-| OOP | SOLID Code, Object Oriented Design principles |
-| JavaScript | Vanilla JS, Typescript, Cypress, Jest, Jasmine, React, Node.js, Express |
+| Testing | TDD, BDD, RRG Test Cycle, Spec Pattern, AAA Test Patterns, Coverage Reporting |
+| OOP | SOLID Code, Object Oriented Design principles, DRY coding |
+| Web Development | API creation, Full stack, Request/Response, Single page web apps |
+| JavaScript | Vanilla JS, Typescript, Jasmine, React, Node.js, Express, Cypress, Jest, Istanbul, Async servers, jQuery |
 | Ruby | RSpec, Capybara, Rails, Sinatra |
 | Python | Unittest, Pipenv |
+| Git | Version management, Markdown, Code Review, Pull requests|
+| DevOps | TravisCI, Heroku deployment, Coveralls
 
 ### Soft Skills
 
