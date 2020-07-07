@@ -2,6 +2,12 @@
 
 <div align="center">    
 
+### [LinkedIn](https://www.linkedin.com/in/dec-kolakowski-256b3b86/) | [Website](https://dpwdec.github.io/)
+
+</div>
+
+<div align="center">    
+
 <a href="#Projects">Projects</a> | 
 <a href="#Skills">Skills</a>  | 
 <a href="#Education">Education</a> | 
