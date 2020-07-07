@@ -1,4 +1,4 @@
-## Dec Kolakowski
+<h1 align="center">Dec Kolakowski</h1>
 
 I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean code][solid]. I graduated with a first class degree from [Trinity College][trinity] in Musical Composition. I spent ten years making [games][ns] as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and it’s expressive potential. In 2020 I made the decision to transition fully into software development by attending [Makers academy][makers].
 
@@ -8,8 +8,57 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 [ns]: https://etomame.itch.io/norns
 [makers]: https://makers.tech/
 
+<h2 align="center">Projects</h2>
 
-## Skills
+| Title | Summary | Tech Stack | Testing |
+| --- | --- | --- | --- |
+| Re-Engage Coordinator Portal | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash | Cypress, Jest
+| Bank Tech Test | | Python, Unittest, Pipenv |
+
+<h2 align="center">Skills</h2>
+
+### Technical Skills
+
+You can find a full technical blog of *almost* everything I've learned related to coding by visiting the [notes][notes] section of my website.
+
+[notes]: https://dpwdec.github.io/notes
+
+| Area | Skill |
+| --- | ---
+| Github | Version management, Markdown |
+| TDD | RRG Test Cycle, 
+| OOP | SOLID Code
+| JavaScript | Vanilla JS, Typescript, Cypress, Jest, React, Node.js, Express |
+| Ruby | RSpec, Capybara, Rails, Sinatra |
+| Python | Unittest, Pipenv |
+
+### Soft Skills
+
+#### "Reflective with a growth mindset"
+I am committed to engaging in reflective learning.
+
+#### "Organiser and results driven"
+I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
+
+ - Worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work while managing a stack of interlocking sound and visual technologies such as MSP for generative sound and Ableton for live processing.
+ - Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
+ - Produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
+
+<h2 align="center">Educatiom</h2>
+
+#### Makers Academy (April 2020 to July 2020)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Trinity College (September 2011 to June 2015)
+
+- Musical Composition (Orchestral and Electro-acoustic)
+- Graduated with First Class Honours
+- Created or participated in a range of artistic cross-cultural and internal arts projects.
+
 #### "Tech focused and self motivated"
 I have produced a range of 3D animations, multi media music projects and games that required me integrated and learn many different technologies. This required me to:
 
@@ -28,13 +77,6 @@ I have produced a range of 3D animations, multi media music projects and games t
 [ks]: https://killscreen.com/previously/articles/play-your-food/
 [pk]: https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the
 
-#### "Organiser and results driven"
-I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
-
- - Worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work while managing a stack of interlocking sound and visual technologies such as MSP for generative sound and Ableton for live processing.
- - Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
- - Produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
-
 #### "Details oriented with real world experience"
 In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students. Through running the business:
 
@@ -42,27 +84,6 @@ In addition to my artistic work I have run a business for the last five years tu
  - I was Required to be extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline a skill I think is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
  - I Ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 
-## Education
-
-#### Makers Academy (April 2020 to July 2020)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Trinity College (September 2011 to June 2015)
-
-- Musical Composition (Orchestral and Electro-acoustic)
-- Graduated with First Class Honours
-- Created or participated in a range of artistic cross-cultural and internal arts projects.
-
 ## Other Interests
 
 I am long time meditator. I have attended several vipassana retreats. I have trained in Dzogchen and Pali traditions.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYwNDQ4NjEsNjI1MDg3MzQzLC0xMz
-MyMTc3OTk3LC0xNjk1OTc0NjYwLDE0NzA1NzA2MSwxODc3MTUz
-NzAsLTE4NDQ4OTcyMDAsMjExNTYwMDEyNiwtNTAxMTY1NDY4XX
-0=
--->
