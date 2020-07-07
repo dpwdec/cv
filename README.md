@@ -13,7 +13,7 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 | Title | Summary | Tech Stack | Testing |
 | --- | --- | --- | --- |
 | Re-Engage Coordinator Portal | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash | Cypress, Jest
-| Bank Tech Test | | Python, Unittest, Pipenv |
+| Bank Tech Test | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest |
 
 <h2 align="center">Skills</h2>
 
@@ -35,55 +35,55 @@ You can find a full technical blog of *almost* everything I've learned related t
 ### Soft Skills
 
 #### "Reflective with a growth mindset"
-I am committed to engaging in reflective learning.
+I am committed to self growth and reflective learning as demonostrated by my personal and technical blogs where I reflect on both specific code related and meta-learning issues. Furthermore I track by code progress week by week with Trello and use other tools like my sourcerer and github profiles to optimise my learning and output.
 
-#### "Organiser and results driven"
-I have participated in a range of arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
+#### "Organiser and collaborator"
+I have participated in a range of group arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
 
- - Worked with *Secret Cinema* to produce interactive sound design for an immersive theatre experience. This required organising and collaborating with a team of over thirty artists to produce generative soundscapes appropriate to their work while managing a stack of interlocking sound and visual technologies such as MSP for generative sound and Ableton for live processing.
- - Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening. This project taught me to collaborate remotely and effectively and produce significant and high quality work under pressure.
- - Produced a self lead project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
+ - I Worked with *Secret Cinema* to produce sound design for an immersive theatre experience. I organised and callorated with a team of more than thirty artists to create generative soundscapes using MSP and Ableton for generative live sound.
+ - I Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening.
 
-<h2 align="center">Educatiom</h2>
 
-#### Makers Academy (April 2020 to July 2020)
+ #### "Tech focused and self motivated"
+Outside of my traditional software development learning I have a strong intrinsic interest in tech. I have produced a range of 3D animations, multi media music projects and games that required I learn a range of additional technologies:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Trinity College (September 2011 to June 2015)
-
-- Musical Composition (Orchestral and Electro-acoustic)
-- Graduated with First Class Honours
-- Created or participated in a range of artistic cross-cultural and internal arts projects.
-
-#### "Tech focused and self motivated"
-I have produced a range of 3D animations, multi media music projects and games that required me integrated and learn many different technologies. This required me to:
-
- - Work with and become proficient in a range complex techcologies:
-	 - Maya, Blender, Zbrush
-	 - Unity, UE4
-	 - [Processing][pr] (and [P5.js][p5])
-	 - Logic, Max MSP
- - Write real world code to accomplish my goals and augment my tools. Such as animations using `Java` in Processing. Game code using`C#`  in Unity and PyMel and BPY in Maya and Blender. *Example:* I wrote a system in processing that applied [Kim Asendorf's pixel sorting algorithm][pix] to each frame of a video.
- - Produce entirely self-lead projects, working auto didactically and teaching myself as I went to find personal solution to the problems I encountered. *Example:* I created the game [NORnS][ns] for Ludem Dare 31. It received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
+- I used `real world code` to `accomplish personal goals` goals, such as creating Maya and Blender toolings with PyMel and BPY respectively.
+- I learned complex technologies such as ZBrush, Unity, [Processing][pr] and more recently [Processing.js][p5]. Additional I created my own small game projects in Unity using `C#`.
+- I worked auto-didactically to produce an entirely self led game project for Ludem Date 31 in the `Java` processing framework. The game, [NORnS][ns], received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
+- Produced a self led project called *Selection* which involved creating and editing a six and half film for use on nine synchronised televisions. I wrote a code to network the television feeds together so that over the course of the film all outputs were synchronised. I also organised a group of performers in singing during the screening and the production design for the event. This was assessed by my university as a credit bearing project and I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen". This project required me to write code to accomplish a goal in the real world, produce a finished project entirely under my own direction and lead a group of performers in actualizing the designing the final product.
 
 
 [p5]: https://p5js.org/
 [pr]: https://processing.org/
-[pix]: https://github.com/kimasendorf/ASDFPixelSort
 [ks]: https://killscreen.com/previously/articles/play-your-food/
 [pk]: https://prostheticknowledge.tumblr.com/post/104969137296/norns-trippy-game-by-declan-kolakowski-for-the
 
+
 #### "Details oriented with real world experience"
-In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students. Through running the business:
+In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students:
 
- -  I was frequently required to proof documents in the range of 10-20 thousand words within a 24 hour turn around.
- - I was Required to be extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline a skill I think is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
- - I Ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
+ -  I frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period
+ - I was extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline at high level of quality, a skill I believe is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
+ - I ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 
-## Other Interests
+
+ <h2 align="center">Education</h2>
+
+#### Makers Academy (April 2020 to July 2020)
+
+- Fullstack web development
+- Effective remote working
+- Object oritened design
+- Agile methologies
+- Test driven development
+- Ruby, JavaScript, Python
+
+#### Trinity College (September 2011 to June 2015) - First Class Honours
+
+- Musical Composition (Orchestral and Electro-acoustic)
+- Created or participated in a range of artistic cross-cultural and internal collaborative arts projects.
+- Created professional recordings and integrated technology with music
+
+ <h2 align="center">Interests</h2>
 
 I am long time meditator. I have attended several vipassana retreats. I have trained in Dzogchen and Pali traditions.
