@@ -12,7 +12,8 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 
 | Title | Summary | Tech Stack | Testing |
 | --- | --- | --- | --- |
-| Re-Engage Coordinator Portal | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash | Cypress, Jest
+| Re-Engage Coordinator Portal | A tool to help volunteer coordinators for the Re-Engage charity. Re-Engage is a UK registered charity that organises tea parties for elderly members in the community to address isolation and loneliness. This project delivered a fully integrated environment to automate a lot of manual administration labour that charity coordinators routinely engaged in such as maintaining lists of outreach members, organising events effectively and tracking availabilities among volunteers. | JavaScript, Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), Lodash | Cypress, Jest
+| Makers B'n'B | A group project clone of Air B'n'B implemented in Sinatra. | Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony | RSpec, Capybara |
 | Bank Tech Test | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest |
 
 <h2 align="center">Skills</h2>
