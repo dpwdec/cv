@@ -31,7 +31,7 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 | [Makers B'n'B][bnb] | A group project clone of Air B'n'B implemented in Sinatra. | Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony | RSpec, Capybara |
 | [Bank Tech Test][bank] | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest, TravisCI, Coveralls |
 
-[charity]: https://github.com/dpwdec/charity-apr2020
+[charity]: https://github.com/dpwdec/re-engage-charity-portal
 [bnb]: https://github.com/dpwdec/Makersbnb
 [bank]: https://github.com/dpwdec/bank-tech-test
 
