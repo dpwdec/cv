@@ -15,7 +15,7 @@
 
 </div>
 
-I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean code][solid]. I graduated with a first class degree from [Trinity College][trinity] in Musical Composition. I spent ten years making [games][ns] as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and it’s expressive potential. In 2020 I made the decision to transition fully into software development by attending [Makers academy][makers].
+I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean code][solid]. I graduated with a first class degree from [Trinity College][trinity] in Musical Composition. I spent ten years making [games][ns] as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and its expressive potential. In 2020 I made the decision to transition fully into software development by attending [Makers academy][makers].
 
 [tdd]: http://agiledata.org/essays/tdd.html
 [solid]: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
