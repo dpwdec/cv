@@ -1,6 +1,19 @@
 %PUBLISHED VERSION
+
+%\newcommand{\CLASSINPUTlefttextmargin}{10cm}
+%\newcommand{\CLASSINPUTbottomtextmargin}{2cm}
+
 \documentclass[12pt]{IEEEtran}
 
+\setlength{\columnsep}{14mm}
+
+%\usepackage[scaled]{helvet}
+%\renewcommand\familydefault{\sfdefault} 
+%\usepackage[T1]{fontenc}
+
+\usepackage{tgheros}
+
+\usepackage{makecell}
 %\usepackage{natbib}
 %\usepackage[style=authoryear-ibid,backend=biber]{biblatex}
 %\usepackage[style=authoryear-ibid]{biblatex}
@@ -46,13 +59,32 @@ I am a software developer, a TDD enthusiast and an evangelist for clean code. I 
 \section*{Skills}
 
 \begin{center}
-\begin{tabular}{ |l|l| } 
+\begin{tabular}{ | l | l | } 
  \hline
  Area & Skill\\
  \hline\hline
- Testing & TDD, BDD, RRG Test Cycle, Spec Pattern, AAA Test Patterns, Coverage Reporting\\
+ Testing & \makecell[l]{TDD, BDD, Spec / AAA Test Patterns}\\
  \hline
- OOP & SOLID Code, Object Oriented Design principles\\
+ OOP & \makecell[l]{SOLID Code, Object Oriented Design principles}\\
+ \hline
+ cell7 & cell8\\
+ \hline
+\end{tabular}
+\end{center}
+
+
+\section*{Projects}
+
+\section*{Skills}
+
+\begin{center}
+\begin{tabular}{ | l | l | } 
+ \cline
+ Area & Skill\\
+ \hline\hline
+ Testing & \makecell[l]{TDD, BDD, Spec / AAA Test Patterns}\\
+ \hline
+ OOP & \makecell[l]{SOLID Code, Object Oriented Design principles}\\
  \hline
  cell7 & cell8\\
  \hline
@@ -78,6 +110,26 @@ I am a software developer, a TDD enthusiast and an evangelist for clean code. I 
 \item Created or participated in a range of artistic cross-cultural and internal collaborative arts projects.
 \item Created professional recordings and integrated technology with music
 \end{itemize}
+
+\section*{Employment}
+
+\subsection*{Freelance Proofreader}
+
+\begin{itemize}
+\item Fullstack web development
+\item Effective remote working
+\item Object oritened design
+\item Agile methologies
+\item Test driven development
+\item Ruby, JavaScript, Python
+\end{itemize}
+
+\subsection*{Proofreader - International Journal of Thermophysics}
+
+I am a software developer, a TDD enthusiast and an evangelist for clean code. I graduated with a first class degree from Trinity College in Musical Composition. I spent ten years making games as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and it’s expressive potential. In 2020 I made the decision to transition fully into software development by attending Makers academy.
+
+
+
 
 
 %\cite{Schuller09-TI2b }
