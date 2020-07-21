@@ -86,9 +86,10 @@ Outside of my traditional software development learning I have a strong intrinsi
 #### "Details oriented with business experience"
 In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students:
 
- -  I frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period
- - I was extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline at high level of quality, a skill I believe is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
- - I ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
+- Proofread for leading academics and science jour- nals most notably the International Journal of Ther- mophysics.
+- I frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period
+- I was extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline at high level of quality, a skill I believe is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
+- I ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 
 
  <h2 id="Education" align="center">Education</h2>
