@@ -50,8 +50,8 @@ You can find a full technical blog of *almost* everything I've learned related t
 | --- | ---
 | Testing | TDD, BDD, RRG Test Cycle, Spec / AAA Test Patterns, Coverage Reporting |
 | OOP | SOLID Code, Object Oriented Design principles, DRY coding |
-| Web Development | API creation, Full stack, Request/Response, Single page web apps, HTML, CSS, Sass |
-| JavaScript | Vanilla JS, Typescript, Jasmine, React, Node.js, npm, Express, Cypress, Jest, Istanbul, Async servers, jQuery, Mongoose |
+| Web Development | API creation, Full stack, Single page Web Apps, HTML, CSS, Sass |
+| JavaScript | Vanilla JS, Jasmine, React, Node.js, npm, Express, Cypress, Jest, Istanbul, Async servers, jQuery, Mongoose |
 | Ruby | RSpec, Capybara, Rails, Sinatra, Jekyll, Datamapper |
 | Python | Unittest, Pipenv |
 | Rust | Cargo, Test |
