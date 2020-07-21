@@ -1,4 +1,6 @@
 \documentclass[12pt]{IEEEtran}
+
+%Set central distance between columns:
 \setlength{\columnsep}{14mm}
 
 %\usepackage[scaled]{helvet}
@@ -6,7 +8,11 @@
 %\usepackage[T1]{fontenc}
 
 \usepackage{makecell}
+\usepackage{lipsum,multicol}
 \pagenumbering{gobble}
+
+%Custom commands:
+\newcommand{\cvrule}{\noindent\rule{8.5cm}{0.4pt}}
 
 \begin{document}
 \LARGE
@@ -14,19 +20,17 @@
 \small
 \\
 \\
-\textbf{Github:} dpwdec
-\\
-\textbf{LinkedIn:} dec-kolakowski
-\\
-\textbf{Website:} dpwdec.github.io
-\\
-\noindent\rule{8cm}{0.4pt}
+\textbf{Github:} dpwdec\\
+\textbf{LinkedIn:} dec-kolakowski\\
+\textbf{Website:} dpwdec.github.io\\
+
+\cvrule
 
 \section*{About}
 
 \noindent{I am a software developer, a TDD enthusiast and an evangelist for clean code. I graduated with a first class degree from Trinity College in Musical Composition. I spent ten years making games as a hobbyist and working in technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and its expressive potential. In 2020 I made the decision to transition fully into software development by attending Makers academy.}
 
-\noindent\rule{8cm}{0.4pt}
+\cvrule
 
 \section*{Skills}
 
@@ -38,7 +42,7 @@
 \textbf{Databases:} SQL, MongoDB, PostgreSQL  \\[3pt]
 \textbf{Web Development:} API creation, Full stack, Single Page Web Apps, HTML, CSS  %\\[3pt]
 
-\noindent\rule{8cm}{0.4pt}
+\cvrule
 
 \section*{Education}
 
@@ -61,7 +65,9 @@
 \end{itemize}
 
 \vskip 1in
-
+\lipsum[1-2]
+\vfill\null
+\columnbreak
 \section*{Projects}
 \subsection*{GraphWFC.rs}
 \noindent{A generalised graph based implementation of Maxim Gumin's original Wave Function Collapse algorithm.} \\[5pt]
@@ -75,7 +81,8 @@
 \noindent{A full stack clone of Air B'n'B.} \\
 \textbf{Tech Stack:} Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony, RSpec, Capybara %\\[3pt]
 
-\noindent\rule{8cm}{0.4pt}
+\cvrule
+\vskip 0.35in
 
 \section*{Experience}
 
@@ -87,8 +94,8 @@
 \item I ensured that over 90\% of my clients made a gain of at least two grade boundaries between assignments while working with me.
 \end{itemize}
 
-\noindent\rule{8cm}{0.4pt}
-
+\cvrule
+\vskip 0.35in
 \section*{Interests}
 
 \begin{itemize}
