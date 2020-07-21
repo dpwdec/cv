@@ -62,12 +62,12 @@ You can find a full technical blog of *almost* everything I've learned related t
 ### Soft Skills
 
 #### "Reflective with a growth mindset"
-I am committed to self growth and reflective learning as demonostrated by my personal and technical blogs where I reflect on both specific code related and meta-learning issues. Furthermore I track by code progress week by week with Trello and use other tools like my sourcerer and github profiles to optimise my learning and output.
+I am committed to self growth and reflective learning as demonostrated by my personal and technical blogs where I reflect on both specific code related and meta-learning issues. Furthermore I track my code progress week by week with Trello and use other tools like my sourcerer and github profiles to optimise my learning and output.
 
 #### "Organiser and collaborator"
 I have participated in a range of group arts projects that required me to organise and collaborate with complex teams in high pressure client facing environments:
 
- - I Worked with *Secret Cinema* to produce sound design for an immersive theatre experience. I organised and callorated with a team of more than thirty artists to create generative soundscapes using MSP and Ableton for generative live sound.
+ - I Worked with *Secret Cinema* to produce sound design for an immersive theatre experience. I organised and callorated with a team of more than thirty artists to create generative soundscapes using MSP and Ableton for algorithmic live sound.
  - I Collaborated on a cross-continental project with *The Museum of the City of New York* to produce sound and music on a tight - three week - deadline for a group of professional dancers to perform to during the LUIP educational event opening.
 
 
@@ -76,7 +76,7 @@ Outside of my traditional software development learning I have a strong intrinsi
 
 - I used `real world code` to `accomplish personal goals` goals, such as creating Maya and Blender toolings with PyMel and BPY respectively.
 - I learned complex technologies such as ZBrush, Unity, [Processing][pr] and more recently [Processing.js][p5]. Additional I created my own small game projects in Unity using `C#`.
-- I worked auto-didactically to produce an entirely self led game project for Ludem Date 31 in the `Java` processing framework. The game, [NORnS][ns], received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
+- I worked auto-didactically to produce an entirely self led game project for Ludem Dare 31 in the `Java` processing framework. The game, [NORnS][ns], received positive reviews in [Killscreen][ks] and [Prosthetic Knowledge][pk].
 - For my degree show I produced a self led project called *Selection* which used synchronised video across multiple televisions. This required me to write code to solve a real world problem by networking the television feeds together so that they executed synchronously. I received a mark of 98% for the project and was described by the panel as "one of the best performance projects we have ever seen".
 
 
@@ -89,10 +89,10 @@ Outside of my traditional software development learning I have a strong intrinsi
 #### "Details oriented with business experience"
 In addition to my artistic work I have run a business for the last five years tutoring and proofreading for international students:
 
-- Proofread for leading academics and science journals most notably the International Journal of Ther- mophysics.
-- I frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period
-- I was extremely efficient with my time and oriented towards details so that I could deliver the work to my clients on a deadline at high level of quality, a skill I believe is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
+- Proofread for leading academics and science journals most notably the International Journal of Thermophysics.
+- Frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period.
 - I ensured that over 90% of my clients made a gain of at least two grade boundaries between assignments while working with me.
+- Extremely efficient with time and oriented towards details so that I could deliver the work to my clients on a deadline at high level of quality, a skill I believe is strongly transferable to coding and debugging, where the difference between a single comma or period can change the entire outcome of a piece of work. 
 
 
  <h2 id="Education" align="center">Education</h2>
@@ -109,12 +109,12 @@ In addition to my artistic work I have run a business for the last five years tu
 #### Trinity College (September 2011 to June 2015) - First Class Honours
 
 - Musical Composition (Orchestral and Electro-acoustic)
-- Created or participated in a range of artistic cross-cultural and internal collaborative arts projects.
+- Created / participated in a range of artistic cross-cultural and internal collaborative arts projects.
 - Created professional recordings and integrated technology with music
 
  <h2 id="Interests" align="center">Interests</h2>
 
 - I am long time meditator. I have trained in Dzogchen, Pali and Transcendental traditions.
-- I run a collaborative music video club on discord in which a community of music video lovers come together to experience cross cultural music
-- I play music regularly.
-- Yoga and running
+- I run a collaborative music video club on discord in which a community of music video lovers come together to experience cross cultural music.
+- I play music regularly (Grade 8 Baroque Recorder).
+- Yoga and running.
