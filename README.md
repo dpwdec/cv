@@ -54,7 +54,7 @@ You can find a full technical blog of *almost* everything I've learned related t
 | JavaScript | Vanilla JS, Jasmine, React, Node.js, npm, Express, Cypress, Jest, Istanbul, Async servers, jQuery, Mongoose |
 | Ruby | RSpec, Capybara, Rails, Sinatra, Jekyll, Datamapper |
 | Python | Unittest, Pipenv |
-| Rust | Cargo, Test |
+| Rust | Cargo, Test, Rand |
 | Databases | SQL, MongoDB, PostgreSQL |
 | Git | Version management, Markdown, Code Review, Pull requests|
 | DevOps | TravisCI, Heroku deployment, Coveralls, Trello |
