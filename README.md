@@ -114,7 +114,7 @@ In addition to my artistic work I have run a business for the last five years tu
 
  <h2 id="Interests" align="center">Interests</h2>
 
-- I am a long time meditator. I have trained in Dzogchen, Pali and Transcendental traditions.
+- I am a long time meditator. I have trained in the Transcendental, Vipassana and Dzogchen traditions.
 - I run a collaborative online music video club in which a community of music video lovers come together to experience cross cultural music.
 - I play music regularly (Grade 8 Baroque Recorder).
 - Yoga and running.
