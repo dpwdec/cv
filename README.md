@@ -48,7 +48,7 @@ You can find a full technical blog of *almost* everything I've learned related t
 
 | Area | Skill |
 | --- | ---
-| Testing | TDD, BDD, RRG Test Cycle, Spec / AAA Test Patterns, Coverage Reporting |
+| Testing | TDD, BDD, RGR Test Cycle, Spec / AAA Test Patterns, Coverage Reporting |
 | OOP | SOLID Code, Object Oriented Design principles, DRY coding |
 | Web Development | API creation, Full stack, Single page Web Apps, HTML, CSS, Sass |
 | JavaScript | Vanilla JS, Jasmine, React, Node.js, npm, Express, Cypress, Jest, Istanbul, Async servers, jQuery, Mongoose |
