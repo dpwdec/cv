@@ -32,8 +32,8 @@ I am a software developer, a [TDD enthusiast][tdd] and an evangelist for [clean 
 | [Makers B'n'B][bnb] | A full stack clone of Air B'n'B. | Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony | RSpec, Capybara |
 | [Bank Tech Test][bank] | Small app for tracking bank balance and printing a statement. | Python, Pipenv | Unittest, TravisCI, Coveralls |
 
-[charity]: https://github.com/dpwdec/re-engage-charity-portal
-[wfc]: https://github.com/dpwdec/GraphWFC.rs
+[charity]: https://github.com/Tracht/charity-apr2020
+[wfc]: https://github.com/SaiskiFunctions/GraphWFC.rs
 [mxwfc]: https://github.com/mxgmn/WaveFunctionCollapse
 [bnb]: https://github.com/dpwdec/Makersbnb
 [bank]: https://github.com/dpwdec/bank-tech-test
@@ -109,7 +109,7 @@ In addition to my artistic work I have run a business for the last five years tu
 #### Trinity College (September 2011 to June 2015) - First Class Honours
 
 - Musical Composition (Orchestral and Electro-acoustic)
-- Created / participated in a range of artistic cross-cultural and internal collaborative arts projects.
+- Created / participated in a range of collaborative arts projects.
 - Created professional recordings and integrated technology with music
 
  <h2 id="Interests" align="center">Interests</h2>
