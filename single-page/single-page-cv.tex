@@ -15,6 +15,21 @@
 %  linkcolor[green]
 %}
 
+\setlength{\parskip}{0.4ex}
+\setlength{\parindent}{0pt}
+\usepackage{enumitem}
+
+% control spacing of subsections and titles, in the form:
+% \titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
+\usepackage{titlesec}
+\titlespacing*{\subsection}
+{0pt}{3.5pt}{2pt}
+
+% \titlespacing*{\subsection}
+%{0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
+
+\usepackage{xcolor}
+
 \pagenumbering{gobble}
 
 %Custom commands:
@@ -26,29 +41,56 @@
 \small
 \\
 \\
-\textbf{Github:} \href{https://github.com/dpwdec}{dpwdec}\\
-\textbf{LinkedIn:} \href{https://www.linkedin.com/in/dec-kolakowski-256b3b86}{dec-kolakowski}\\
-\textbf{Website:} \href{https://dpwdec.github.io}{dpwdec.github.io}\\
+{
+\color{blue}
+\href{https://github.com/dpwdec}{\underline{\textbf{Github}}}
+} | {
+\color{blue}
+ \href{https://dpwdec.github.io}{\underline{\textbf{Website}}}
+} | {
+\color{blue}
+\href{https://www.linkedin.com/in/dec-kolakowski-256b3b86}{\underline{\textbf{LinkedIn}}} 
+ }
 
 \cvrule
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% ABOUT %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section*{\textbf{About}}
 
+\iffalse
 \noindent{I am a software developer, a TDD enthusiast and an evangelist for clean code. I graduated with a first class degree from Trinity College in Musical Composition. I spent ten years making games and working on technology-driven art and animation projects. Through using code in these projects I discovered a love for programming and its expressive potential.}
+\fi
+
+\noindent{I am a software developer, a TDD enthusiast and an evangelist for clean code. I have worked coding solutions for charitable causes, creating tools software for 3D and music applications and participating in technology driven games and arts projects. I graduated with a first class degree from Trinity College in Musical Composition.}
 
 \cvrule
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% SKILLS %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section*{\textbf{Skills}}
 
 \noindent{\textbf{JavaScript:} Vanilla JS, React, Node.js, Express, \\ Cypress, Jest, Mongoose} \\[3pt]
-\textbf{Rust:} Cargo, Test, Rand  \\[3pt]
-\textbf{Python:} Unittest, Pipenv, Flask, SQLAlchemy  \\[3pt]
-\textbf{Ruby:} RSpec, Capybara, Rails, Sinatra  \\[3pt]
-\noindent{\textbf{Testing:} TDD, BDD, Spec / AAA Test Patterns} \\[3pt]
 \textbf{Databases:} SQL, MongoDB, PostgreSQL  \\[3pt]
+\textbf{Python:} Unittest, Pipenv, Flask, SQLAlchemy, Pytest  \\[3pt]
+\iffalse
+\textbf{Adobe Suite:} Photoshop, Illustrator, Premiere  \\[3pt]
+\fi
+\textbf{Rust:} Cargo, Test, Rand  \\[3pt]
+\noindent{\textbf{Ruby:} RSpec, Capybara, Rails, Sinatra, Active Record}  \\[3pt]
+\noindent{\textbf{Testing:} TDD, BDD, Spec / AAA Test Patterns} \\[3pt]
 \textbf{Web Development:} API creation, Full stack, \\ Single Page Web Apps, HTML, CSS  %\\[3pt]
 
 \cvrule
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% EDUCATION %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section*{\textbf{Education}}
 
@@ -57,7 +99,9 @@
 \begin{itemize}
 \item Fullstack web development
 \item Effective remote working
+\iffalse
 \item Object oritened design
+\fi
 \item Agile methologies
 \item Test driven development
 \item Ruby, JavaScript, Python
@@ -65,57 +109,97 @@
 
 \subsection*{Trinity College (September 2011 to June 2015) - First Class Honours}
 \begin{itemize}
-\item Musical Composition (Orchestral and Electro-acoustic).
+\item Musical Composition (Orchestral \& Electronic).
 \item Created or participated in a range of collaborative arts projects.
 \item Created professional recordings and integrated technology with music.
 \end{itemize}
 
-\vskip 1in
-\lipsum[1-2]
-\vfill\null
-\columnbreak
-
-\section*{\textbf{Projects}}
-\subsection*{\href{https://github.com/Tracht/charity-apr2020}{Re-Engage Charity Organiser Porta}l}
-\noindent{A fully integrated tooling environment developed for the UK registered charity Re-Engage to facilitate volunteer co-ordinators to organise events using a member management system and automated route planning.} \\[5pt]
-\textbf{Tech Stack:} JavaScript, Node.js, MongoDB, Express, React, Google Maps API (Directions/Rendering), \\ Lodash, Genetic Algorithms, Cypress, Jest
-
-\subsection*{\href{https://github.com/SaiskiFunctions/GraphWFC.rs}{GraphWFC.rs}}
-\noindent{A generalised graph based implementation of Maxim Gumin's Wave Function Collapse algorithm.} \\[5pt]
-\textbf{Tech Stack:} Rust, Cargo, Rand
-
-\iffalse
-\subsection*{\href{https://github.com/dpwdec/Makersbnb}{Maker's B'n'B}}
-\noindent{A full stack clone of Air B'n'B.} \\[5pt]
-\textbf{Tech Stack:} Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony, RSpec, Capybara
-\fi
-
-\subsection*{\href{https://github.com/dpwdec/bank-tech-test}{Bank System}}
-\noindent{An implementation for the bank tech test kata with a focus on strong testing, good coverage and logical, clean code structuring.} \\[5pt]
-\textbf{Tech Stack:} Python, Unittest, Mock, Pipenv
-
 \cvrule
-\vskip 0.35in
 
-\section*{\textbf{Experience}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% INTERESTS %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection*{Proofreader (2015 - 2020)}
-\noindent{I ran a successful proofreading and tutoring business for five years which focussed on providing high quality proofing services to overseas students and academics looking to publish work in the UK.}\\[1pt]
-\begin{itemize}
-\item Proofread for leading academics and science journals most notably the International Journal of Thermophysics.
-\item Frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period.
-\item I ensured that over 90\% of my clients made a gain of at least two grade boundaries between assignments while working with me.
-\end{itemize}
-
-\cvrule
-\vskip 0.35in
 \section*{I\textbf{nterests}}
 
 \begin{itemize}
 \item I am a long time meditator. I have trained in the Transcendental, Vipassana and Dzogchen traditions.
 \item I run a collaborative music video club on discord in which a community of music video lovers come together to experience cross cultural music.
+\iffalse
 \item I play music regularly (Grade 8 in Baroque Recorder).
+\fi
 \item Yoga and running.
 \end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% PROJECTS %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{\textbf{Projects}}
+{
+\color{blue}
+\subsection*{\href{https://github.com/Tracht/charity-apr2020}{\underline{Re-Engage Charity Organiser Portal}}}
+}
+\noindent{A fully integrated tooling environment developed for the UK registered charity Re-Engage to facilitate volunteer co-ordinators in organising events.}
+\begin{itemize}[topsep=\parskip]
+\item Created a full stack website using MERN.
+\item Implemented thorough, dependency injected testing of routing and APIs with Jest and end to end testing in Cypress.
+\item Built a constraint solving algorithm to solve a route optimisation problem for website users.
+\end{itemize}
+\textbf{Tech Stack:} JavaScript, MERN, Google Maps API, Lodash, Genetic Algorithms, Cypress, Jest
+
+{
+\color{blue}
+\subsection*{\href{https://github.com/SaiskiFunctions/GraphWFC.rs}{\underline{GraphWFC.rs}}}
+}
+\noindent{A generalised graph based implementation of Maxim Gumin's Wave Function Collapse algorithm.}
+\begin{itemize}[topsep=\parskip]
+\item Implemented an original and performant version of WFC in Rust.
+\item Created exhaustive functionality tests and set up benchmarking to collect data on performance.
+\item Used graph and set theory constructs to improve base algorithm speed and modelled the algorithm using time complexity.
+\end{itemize}
+\textbf{Tech Stack:} Rust, Cargo, Rand
+
+\iffalse
+\subsection*{\href{https://github.com/dpwdec/Makersbnb}{Maker's B'n'B}}
+\noindent{A full stack clone of Air B'n'B using entirely Ruby-based frameworks and libraries.} \\[5pt]
+\textbf{Tech Stack:} Ruby, Sinatra, Sinatra-Flash, Bcrypt, Pony, RSpec, Capybara, PostgreSQL
+\fi
+
+{
+\color{blue}
+\subsection*{\href{https://github.com/dpwdec/bank-tech-test}{\underline{Bank System}}}
+}
+\noindent{An implementation for the bank tech test kata with a focus on strong testing, good coverage and logical, clean code structuring.} 
+\begin{itemize}[topsep=\parskip]
+\item Created a well structured, SOLID solution using OO principles.
+\item Implemented tests (including mocks) using the standard test library.
+\end{itemize}
+\textbf{Tech Stack:} Python, Unittest, Mock, Pipenv
+
+\iffalse
+\vskip 1in
+\lipsum[1-2]
+\vfill\null
+\columnbreak
+\fi
+
+\cvrule
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% EXPERIENCE %%%%%%%%%%%%%% %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{\textbf{Experience}}
+
+\subsection*{Proofreader (2015 - 2020)}
+\noindent{I ran a successful proofreading and tutoring business for five years which focussed on providing high quality proofing services to overseas students and academics looking to publish work in the UK.}
+\begin{itemize}[topsep=\parskip]
+\item Proofread for leading academics and science journals most notably the International Journal of Thermophysics.
+\item Frequently proofed documents in the range of 10-20 thousand words within a 24 hour turn around period.
+\item I ensured that over 90\% of my clients made a gain of at least two grade boundaries between assignments while working with me.
+\end{itemize}
+
+%\cvrule
 
 \end{document}
